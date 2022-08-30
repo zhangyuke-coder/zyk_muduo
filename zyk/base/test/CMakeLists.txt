@@ -4,5 +4,11 @@ add_executable(main
                ../Timestamp.cc
                ../CountDownLatch.cc
                ../ThreadPool.cc
-               testTimestamp.cc)
+               ../FileUtil.cc
+               ../LogFile.cc
+               ../ProcessInfo.cc
+               ../Logging.cc
+               ../LogStream.cc
+               ../AsyncLogging.cc
+               test_asyncLogging.cc)
 target_link_libraries(main -lpthread)

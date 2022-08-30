@@ -129,28 +129,172 @@ CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ThreadPool.cc.o.provides: CM
 CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ThreadPool.cc.o.provides.build: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ThreadPool.cc.o
 
 
-CMakeFiles/main.dir/testTimestamp.cc.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/testTimestamp.cc.o: ../testTimestamp.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/testTimestamp.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/testTimestamp.cc.o -c /home/zyk/zyk_workspace/zyk/base/test/testTimestamp.cc
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o: /home/zyk/zyk_workspace/zyk/base/FileUtil.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o -c /home/zyk/zyk_workspace/zyk/base/FileUtil.cc
 
-CMakeFiles/main.dir/testTimestamp.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/testTimestamp.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyk/zyk_workspace/zyk/base/test/testTimestamp.cc > CMakeFiles/main.dir/testTimestamp.cc.i
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyk/zyk_workspace/zyk/base/FileUtil.cc > CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.i
 
-CMakeFiles/main.dir/testTimestamp.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/testTimestamp.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyk/zyk_workspace/zyk/base/test/testTimestamp.cc -o CMakeFiles/main.dir/testTimestamp.cc.s
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyk/zyk_workspace/zyk/base/FileUtil.cc -o CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.s
 
-CMakeFiles/main.dir/testTimestamp.cc.o.requires:
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o.requires:
 
-.PHONY : CMakeFiles/main.dir/testTimestamp.cc.o.requires
+.PHONY : CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o.requires
 
-CMakeFiles/main.dir/testTimestamp.cc.o.provides: CMakeFiles/main.dir/testTimestamp.cc.o.requires
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/testTimestamp.cc.o.provides.build
-.PHONY : CMakeFiles/main.dir/testTimestamp.cc.o.provides
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o.provides: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o.provides.build
+.PHONY : CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o.provides
 
-CMakeFiles/main.dir/testTimestamp.cc.o.provides.build: CMakeFiles/main.dir/testTimestamp.cc.o
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o.provides.build: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o
+
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o: /home/zyk/zyk_workspace/zyk/base/LogFile.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o -c /home/zyk/zyk_workspace/zyk/base/LogFile.cc
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyk/zyk_workspace/zyk/base/LogFile.cc > CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.i
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyk/zyk_workspace/zyk/base/LogFile.cc -o CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.s
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o.requires:
+
+.PHONY : CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o.requires
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o.provides: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o.provides.build
+.PHONY : CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o.provides
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o.provides.build: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o
+
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o: /home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o -c /home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc > CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.i
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc -o CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.s
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o.requires:
+
+.PHONY : CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o.requires
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o.provides: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o.provides.build
+.PHONY : CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o.provides
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o.provides.build: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o
+
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o: /home/zyk/zyk_workspace/zyk/base/Logging.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o -c /home/zyk/zyk_workspace/zyk/base/Logging.cc
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyk/zyk_workspace/zyk/base/Logging.cc > CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.i
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyk/zyk_workspace/zyk/base/Logging.cc -o CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.s
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o.requires:
+
+.PHONY : CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o.requires
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o.provides: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o.provides.build
+.PHONY : CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o.provides
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o.provides.build: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o
+
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o: /home/zyk/zyk_workspace/zyk/base/LogStream.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o -c /home/zyk/zyk_workspace/zyk/base/LogStream.cc
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyk/zyk_workspace/zyk/base/LogStream.cc > CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.i
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyk/zyk_workspace/zyk/base/LogStream.cc -o CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.s
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o.requires:
+
+.PHONY : CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o.requires
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o.provides: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o.provides.build
+.PHONY : CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o.provides
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o.provides.build: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o
+
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o: /home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o -c /home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc > CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.i
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc -o CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.s
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o.requires:
+
+.PHONY : CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o.requires
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o.provides: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o.provides.build
+.PHONY : CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o.provides
+
+CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o.provides.build: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o
+
+
+CMakeFiles/main.dir/test_asyncLogging.cc.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/test_asyncLogging.cc.o: ../test_asyncLogging.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/main.dir/test_asyncLogging.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/test_asyncLogging.cc.o -c /home/zyk/zyk_workspace/zyk/base/test/test_asyncLogging.cc
+
+CMakeFiles/main.dir/test_asyncLogging.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/test_asyncLogging.cc.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyk/zyk_workspace/zyk/base/test/test_asyncLogging.cc > CMakeFiles/main.dir/test_asyncLogging.cc.i
+
+CMakeFiles/main.dir/test_asyncLogging.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/test_asyncLogging.cc.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyk/zyk_workspace/zyk/base/test/test_asyncLogging.cc -o CMakeFiles/main.dir/test_asyncLogging.cc.s
+
+CMakeFiles/main.dir/test_asyncLogging.cc.o.requires:
+
+.PHONY : CMakeFiles/main.dir/test_asyncLogging.cc.o.requires
+
+CMakeFiles/main.dir/test_asyncLogging.cc.o.provides: CMakeFiles/main.dir/test_asyncLogging.cc.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_asyncLogging.cc.o.provides.build
+.PHONY : CMakeFiles/main.dir/test_asyncLogging.cc.o.provides
+
+CMakeFiles/main.dir/test_asyncLogging.cc.o.provides.build: CMakeFiles/main.dir/test_asyncLogging.cc.o
 
 
 # Object files for target main
@@ -158,7 +302,13 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Timestamp.cc.o" \
 "CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/CountDownLatch.cc.o" \
 "CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ThreadPool.cc.o" \
-"CMakeFiles/main.dir/testTimestamp.cc.o"
+"CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o" \
+"CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o" \
+"CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o" \
+"CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o" \
+"CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o" \
+"CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o" \
+"CMakeFiles/main.dir/test_asyncLogging.cc.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
@@ -166,10 +316,16 @@ main_EXTERNAL_OBJECTS =
 main: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Timestamp.cc.o
 main: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/CountDownLatch.cc.o
 main: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ThreadPool.cc.o
-main: CMakeFiles/main.dir/testTimestamp.cc.o
+main: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o
+main: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o
+main: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o
+main: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o
+main: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o
+main: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o
+main: CMakeFiles/main.dir/test_asyncLogging.cc.o
 main: CMakeFiles/main.dir/build.make
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -180,7 +336,13 @@ CMakeFiles/main.dir/build: main
 CMakeFiles/main.dir/requires: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Timestamp.cc.o.requires
 CMakeFiles/main.dir/requires: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/CountDownLatch.cc.o.requires
 CMakeFiles/main.dir/requires: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ThreadPool.cc.o.requires
-CMakeFiles/main.dir/requires: CMakeFiles/main.dir/testTimestamp.cc.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/test_asyncLogging.cc.o.requires
 
 .PHONY : CMakeFiles/main.dir/requires
 
