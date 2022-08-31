@@ -28,6 +28,7 @@ public:
     }
 
     void run(const Task& f);
+
     size_t queueSize() const;
 private:
 

@@ -123,6 +123,33 @@ main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
+home/zyk/zyk_workspace/zyk/base/AsyncLogging.o: home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/AsyncLogging.o
+
+# target to build an object file
+home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o
+.PHONY : home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o
+
+home/zyk/zyk_workspace/zyk/base/AsyncLogging.i: home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.i
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/AsyncLogging.i
+
+# target to preprocess a source file
+home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.i
+.PHONY : home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.i
+
+home/zyk/zyk_workspace/zyk/base/AsyncLogging.s: home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.s
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/AsyncLogging.s
+
+# target to generate assembly for a file
+home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.s
+.PHONY : home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.s
+
 home/zyk/zyk_workspace/zyk/base/CountDownLatch.o: home/zyk/zyk_workspace/zyk/base/CountDownLatch.cc.o
 
 .PHONY : home/zyk/zyk_workspace/zyk/base/CountDownLatch.o
@@ -149,6 +176,141 @@ home/zyk/zyk_workspace/zyk/base/CountDownLatch.s: home/zyk/zyk_workspace/zyk/bas
 home/zyk/zyk_workspace/zyk/base/CountDownLatch.cc.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/CountDownLatch.cc.s
 .PHONY : home/zyk/zyk_workspace/zyk/base/CountDownLatch.cc.s
+
+home/zyk/zyk_workspace/zyk/base/FileUtil.o: home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/FileUtil.o
+
+# target to build an object file
+home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o
+.PHONY : home/zyk/zyk_workspace/zyk/base/FileUtil.cc.o
+
+home/zyk/zyk_workspace/zyk/base/FileUtil.i: home/zyk/zyk_workspace/zyk/base/FileUtil.cc.i
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/FileUtil.i
+
+# target to preprocess a source file
+home/zyk/zyk_workspace/zyk/base/FileUtil.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.i
+.PHONY : home/zyk/zyk_workspace/zyk/base/FileUtil.cc.i
+
+home/zyk/zyk_workspace/zyk/base/FileUtil.s: home/zyk/zyk_workspace/zyk/base/FileUtil.cc.s
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/FileUtil.s
+
+# target to generate assembly for a file
+home/zyk/zyk_workspace/zyk/base/FileUtil.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/FileUtil.cc.s
+.PHONY : home/zyk/zyk_workspace/zyk/base/FileUtil.cc.s
+
+home/zyk/zyk_workspace/zyk/base/LogFile.o: home/zyk/zyk_workspace/zyk/base/LogFile.cc.o
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/LogFile.o
+
+# target to build an object file
+home/zyk/zyk_workspace/zyk/base/LogFile.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.o
+.PHONY : home/zyk/zyk_workspace/zyk/base/LogFile.cc.o
+
+home/zyk/zyk_workspace/zyk/base/LogFile.i: home/zyk/zyk_workspace/zyk/base/LogFile.cc.i
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/LogFile.i
+
+# target to preprocess a source file
+home/zyk/zyk_workspace/zyk/base/LogFile.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.i
+.PHONY : home/zyk/zyk_workspace/zyk/base/LogFile.cc.i
+
+home/zyk/zyk_workspace/zyk/base/LogFile.s: home/zyk/zyk_workspace/zyk/base/LogFile.cc.s
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/LogFile.s
+
+# target to generate assembly for a file
+home/zyk/zyk_workspace/zyk/base/LogFile.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogFile.cc.s
+.PHONY : home/zyk/zyk_workspace/zyk/base/LogFile.cc.s
+
+home/zyk/zyk_workspace/zyk/base/LogStream.o: home/zyk/zyk_workspace/zyk/base/LogStream.cc.o
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/LogStream.o
+
+# target to build an object file
+home/zyk/zyk_workspace/zyk/base/LogStream.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o
+.PHONY : home/zyk/zyk_workspace/zyk/base/LogStream.cc.o
+
+home/zyk/zyk_workspace/zyk/base/LogStream.i: home/zyk/zyk_workspace/zyk/base/LogStream.cc.i
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/LogStream.i
+
+# target to preprocess a source file
+home/zyk/zyk_workspace/zyk/base/LogStream.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.i
+.PHONY : home/zyk/zyk_workspace/zyk/base/LogStream.cc.i
+
+home/zyk/zyk_workspace/zyk/base/LogStream.s: home/zyk/zyk_workspace/zyk/base/LogStream.cc.s
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/LogStream.s
+
+# target to generate assembly for a file
+home/zyk/zyk_workspace/zyk/base/LogStream.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.s
+.PHONY : home/zyk/zyk_workspace/zyk/base/LogStream.cc.s
+
+home/zyk/zyk_workspace/zyk/base/Logging.o: home/zyk/zyk_workspace/zyk/base/Logging.cc.o
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/Logging.o
+
+# target to build an object file
+home/zyk/zyk_workspace/zyk/base/Logging.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o
+.PHONY : home/zyk/zyk_workspace/zyk/base/Logging.cc.o
+
+home/zyk/zyk_workspace/zyk/base/Logging.i: home/zyk/zyk_workspace/zyk/base/Logging.cc.i
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/Logging.i
+
+# target to preprocess a source file
+home/zyk/zyk_workspace/zyk/base/Logging.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.i
+.PHONY : home/zyk/zyk_workspace/zyk/base/Logging.cc.i
+
+home/zyk/zyk_workspace/zyk/base/Logging.s: home/zyk/zyk_workspace/zyk/base/Logging.cc.s
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/Logging.s
+
+# target to generate assembly for a file
+home/zyk/zyk_workspace/zyk/base/Logging.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.s
+.PHONY : home/zyk/zyk_workspace/zyk/base/Logging.cc.s
+
+home/zyk/zyk_workspace/zyk/base/ProcessInfo.o: home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/ProcessInfo.o
+
+# target to build an object file
+home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o
+.PHONY : home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o
+
+home/zyk/zyk_workspace/zyk/base/ProcessInfo.i: home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.i
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/ProcessInfo.i
+
+# target to preprocess a source file
+home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.i
+.PHONY : home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.i
+
+home/zyk/zyk_workspace/zyk/base/ProcessInfo.s: home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.s
+
+.PHONY : home/zyk/zyk_workspace/zyk/base/ProcessInfo.s
+
+# target to generate assembly for a file
+home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.s
+.PHONY : home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.s
 
 home/zyk/zyk_workspace/zyk/base/ThreadPool.o: home/zyk/zyk_workspace/zyk/base/ThreadPool.cc.o
 
@@ -177,32 +339,59 @@ home/zyk/zyk_workspace/zyk/base/ThreadPool.cc.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ThreadPool.cc.s
 .PHONY : home/zyk/zyk_workspace/zyk/base/ThreadPool.cc.s
 
-test_ThreadPool.o: test_ThreadPool.cc.o
+home/zyk/zyk_workspace/zyk/base/Timestamp.o: home/zyk/zyk_workspace/zyk/base/Timestamp.cc.o
 
-.PHONY : test_ThreadPool.o
+.PHONY : home/zyk/zyk_workspace/zyk/base/Timestamp.o
 
 # target to build an object file
-test_ThreadPool.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_ThreadPool.cc.o
-.PHONY : test_ThreadPool.cc.o
+home/zyk/zyk_workspace/zyk/base/Timestamp.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Timestamp.cc.o
+.PHONY : home/zyk/zyk_workspace/zyk/base/Timestamp.cc.o
 
-test_ThreadPool.i: test_ThreadPool.cc.i
+home/zyk/zyk_workspace/zyk/base/Timestamp.i: home/zyk/zyk_workspace/zyk/base/Timestamp.cc.i
 
-.PHONY : test_ThreadPool.i
+.PHONY : home/zyk/zyk_workspace/zyk/base/Timestamp.i
 
 # target to preprocess a source file
-test_ThreadPool.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_ThreadPool.cc.i
-.PHONY : test_ThreadPool.cc.i
+home/zyk/zyk_workspace/zyk/base/Timestamp.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Timestamp.cc.i
+.PHONY : home/zyk/zyk_workspace/zyk/base/Timestamp.cc.i
 
-test_ThreadPool.s: test_ThreadPool.cc.s
+home/zyk/zyk_workspace/zyk/base/Timestamp.s: home/zyk/zyk_workspace/zyk/base/Timestamp.cc.s
 
-.PHONY : test_ThreadPool.s
+.PHONY : home/zyk/zyk_workspace/zyk/base/Timestamp.s
 
 # target to generate assembly for a file
-test_ThreadPool.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_ThreadPool.cc.s
-.PHONY : test_ThreadPool.cc.s
+home/zyk/zyk_workspace/zyk/base/Timestamp.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Timestamp.cc.s
+.PHONY : home/zyk/zyk_workspace/zyk/base/Timestamp.cc.s
+
+test_logging.o: test_logging.cc.o
+
+.PHONY : test_logging.o
+
+# target to build an object file
+test_logging.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_logging.cc.o
+.PHONY : test_logging.cc.o
+
+test_logging.i: test_logging.cc.i
+
+.PHONY : test_logging.i
+
+# target to preprocess a source file
+test_logging.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_logging.cc.i
+.PHONY : test_logging.cc.i
+
+test_logging.s: test_logging.cc.s
+
+.PHONY : test_logging.s
+
+# target to generate assembly for a file
+test_logging.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_logging.cc.s
+.PHONY : test_logging.cc.s
 
 # Help Target
 help:
@@ -213,15 +402,36 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... main"
+	@echo "... home/zyk/zyk_workspace/zyk/base/AsyncLogging.o"
+	@echo "... home/zyk/zyk_workspace/zyk/base/AsyncLogging.i"
+	@echo "... home/zyk/zyk_workspace/zyk/base/AsyncLogging.s"
 	@echo "... home/zyk/zyk_workspace/zyk/base/CountDownLatch.o"
 	@echo "... home/zyk/zyk_workspace/zyk/base/CountDownLatch.i"
 	@echo "... home/zyk/zyk_workspace/zyk/base/CountDownLatch.s"
+	@echo "... home/zyk/zyk_workspace/zyk/base/FileUtil.o"
+	@echo "... home/zyk/zyk_workspace/zyk/base/FileUtil.i"
+	@echo "... home/zyk/zyk_workspace/zyk/base/FileUtil.s"
+	@echo "... home/zyk/zyk_workspace/zyk/base/LogFile.o"
+	@echo "... home/zyk/zyk_workspace/zyk/base/LogFile.i"
+	@echo "... home/zyk/zyk_workspace/zyk/base/LogFile.s"
+	@echo "... home/zyk/zyk_workspace/zyk/base/LogStream.o"
+	@echo "... home/zyk/zyk_workspace/zyk/base/LogStream.i"
+	@echo "... home/zyk/zyk_workspace/zyk/base/LogStream.s"
+	@echo "... home/zyk/zyk_workspace/zyk/base/Logging.o"
+	@echo "... home/zyk/zyk_workspace/zyk/base/Logging.i"
+	@echo "... home/zyk/zyk_workspace/zyk/base/Logging.s"
+	@echo "... home/zyk/zyk_workspace/zyk/base/ProcessInfo.o"
+	@echo "... home/zyk/zyk_workspace/zyk/base/ProcessInfo.i"
+	@echo "... home/zyk/zyk_workspace/zyk/base/ProcessInfo.s"
 	@echo "... home/zyk/zyk_workspace/zyk/base/ThreadPool.o"
 	@echo "... home/zyk/zyk_workspace/zyk/base/ThreadPool.i"
 	@echo "... home/zyk/zyk_workspace/zyk/base/ThreadPool.s"
-	@echo "... test_ThreadPool.o"
-	@echo "... test_ThreadPool.i"
-	@echo "... test_ThreadPool.s"
+	@echo "... home/zyk/zyk_workspace/zyk/base/Timestamp.o"
+	@echo "... home/zyk/zyk_workspace/zyk/base/Timestamp.i"
+	@echo "... home/zyk/zyk_workspace/zyk/base/Timestamp.s"
+	@echo "... test_logging.o"
+	@echo "... test_logging.i"
+	@echo "... test_logging.s"
 .PHONY : help
 
 

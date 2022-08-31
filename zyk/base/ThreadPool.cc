@@ -26,11 +26,11 @@ void ThreadPool::start(int numThreads) {
     for(int i = 0; i < numThreads; i++) {
         char id[32];
         snprintf(id, 32, "%d", i + 1);
-        // std::unique_ptr<std::thread> t(new std::thread(std::bind(&ThreadPool::runInThread, this)));
-        
-        // pthread_setname_np(t->native_handle(), id);
-        // threads_.emplace_back(std::move(t));
-        threads_.emplace_back(new std::thread(std::bind(&ThreadPool::runInThread, this)));
+        std::unique_ptr<std::thread> t(new std::thread(std::bind(&ThreadPool::runInThread, this)));
+ 
+        pthread_setname_np(t->native_handle(), id);
+        threads_.emplace_back(std::move(t));
+        // threads_.emplace_back(new std::thread(std::bind(&ThreadPool::runInThread, this)));
 
     }
     if(numThreads == 0 && threadInitCallback_) {
