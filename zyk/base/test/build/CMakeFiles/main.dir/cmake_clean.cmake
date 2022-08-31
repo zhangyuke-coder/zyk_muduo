@@ -8,7 +8,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Logging.cc.o"
   "CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/LogStream.cc.o"
   "CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/AsyncLogging.cc.o"
-  "CMakeFiles/main.dir/test_asyncLogging.cc.o"
+  "CMakeFiles/main.dir/test_logging.cc.o"
   "main.pdb"
   "main"
 )

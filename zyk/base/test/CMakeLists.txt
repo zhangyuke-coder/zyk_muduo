@@ -10,5 +10,5 @@ add_executable(main
                ../Logging.cc
                ../LogStream.cc
                ../AsyncLogging.cc
-               test_asyncLogging.cc)
+               test_logging.cc)
 target_link_libraries(main -lpthread)

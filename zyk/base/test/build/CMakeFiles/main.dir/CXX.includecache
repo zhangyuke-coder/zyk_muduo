@@ -248,19 +248,11 @@ assert.h
 
 /home/zyk/zyk_workspace/zyk/base/noncopyable.h
 
-/home/zyk/zyk_workspace/zyk/base/test/test_asyncLogging.cc
-../AsyncLogging.h
-/home/zyk/zyk_workspace/zyk/base/AsyncLogging.h
-../Logging.h
-/home/zyk/zyk_workspace/zyk/base/Logging.h
-../Timestamp.h
-/home/zyk/zyk_workspace/zyk/base/Timestamp.h
-stdio.h
--
-sys/resource.h
--
-unistd.h
--
+/home/zyk/zyk_workspace/zyk/base/test/test_logging.cc
 iostream
 -
+../Logging.h
+/home/zyk/zyk_workspace/zyk/base/Logging.h
+../ThreadPool.h
+/home/zyk/zyk_workspace/zyk/base/ThreadPool.h
 

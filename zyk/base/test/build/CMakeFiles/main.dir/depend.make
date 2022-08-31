@@ -65,14 +65,13 @@ CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Timestamp.cc.o: /home/zyk/zy
 CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Timestamp.cc.o: /home/zyk/zyk_workspace/zyk/base/Types.h
 CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Timestamp.cc.o: /home/zyk/zyk_workspace/zyk/base/copyable.h
 
-CMakeFiles/main.dir/test_asyncLogging.cc.o: /home/zyk/zyk_workspace/zyk/base/AsyncLogging.h
-CMakeFiles/main.dir/test_asyncLogging.cc.o: /home/zyk/zyk_workspace/zyk/base/CountDownLatch.h
-CMakeFiles/main.dir/test_asyncLogging.cc.o: /home/zyk/zyk_workspace/zyk/base/LogStream.h
-CMakeFiles/main.dir/test_asyncLogging.cc.o: /home/zyk/zyk_workspace/zyk/base/Logging.h
-CMakeFiles/main.dir/test_asyncLogging.cc.o: /home/zyk/zyk_workspace/zyk/base/StringPiece.h
-CMakeFiles/main.dir/test_asyncLogging.cc.o: /home/zyk/zyk_workspace/zyk/base/Timestamp.h
-CMakeFiles/main.dir/test_asyncLogging.cc.o: /home/zyk/zyk_workspace/zyk/base/Types.h
-CMakeFiles/main.dir/test_asyncLogging.cc.o: /home/zyk/zyk_workspace/zyk/base/copyable.h
-CMakeFiles/main.dir/test_asyncLogging.cc.o: /home/zyk/zyk_workspace/zyk/base/noncopyable.h
-CMakeFiles/main.dir/test_asyncLogging.cc.o: ../test_asyncLogging.cc
+CMakeFiles/main.dir/test_logging.cc.o: /home/zyk/zyk_workspace/zyk/base/LogStream.h
+CMakeFiles/main.dir/test_logging.cc.o: /home/zyk/zyk_workspace/zyk/base/Logging.h
+CMakeFiles/main.dir/test_logging.cc.o: /home/zyk/zyk_workspace/zyk/base/StringPiece.h
+CMakeFiles/main.dir/test_logging.cc.o: /home/zyk/zyk_workspace/zyk/base/ThreadPool.h
+CMakeFiles/main.dir/test_logging.cc.o: /home/zyk/zyk_workspace/zyk/base/Timestamp.h
+CMakeFiles/main.dir/test_logging.cc.o: /home/zyk/zyk_workspace/zyk/base/Types.h
+CMakeFiles/main.dir/test_logging.cc.o: /home/zyk/zyk_workspace/zyk/base/copyable.h
+CMakeFiles/main.dir/test_logging.cc.o: /home/zyk/zyk_workspace/zyk/base/noncopyable.h
+CMakeFiles/main.dir/test_logging.cc.o: ../test_logging.cc
 

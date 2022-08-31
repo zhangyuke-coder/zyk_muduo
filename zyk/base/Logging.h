@@ -95,9 +95,9 @@ inline Logger::LogLevel Logger::logLevel()
 
 
 #define LOG_TRACE if (zyk::Logger::logLevel() <= zyk::Logger::LogLevel::TRACE) \
-  zyk::Logger(__FILE__, __LINE__, zyk::Logger::TRACE, __func__).stream()
+  zyk::Logger(__FILE__, __LINE__, zyk::Logger::LogLevel::TRACE, __func__).stream()
 #define LOG_DEBUG if (zyk::Logger::logLevel() <= zyk::Logger::LogLevel::DEBUG) \
-  zyk::Logger(__FILE__, __LINE__, zyk::Logger::DEBUG, __func__).stream()
+  zyk::Logger(__FILE__, __LINE__, zyk::Logger::LogLevel::DEBUG, __func__).stream()
 #define LOG_INFO if (zyk::Logger::logLevel() <= zyk::Logger::LogLevel::INFO) \
   zyk::Logger(__FILE__, __LINE__).stream()
 #define LOG_WARN zyk::Logger(__FILE__, __LINE__, zyk::Logger::LogLevel::WARN).stream()

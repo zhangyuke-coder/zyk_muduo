@@ -65,14 +65,13 @@ CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Timestamp.cc.o
  /home/zyk/zyk_workspace/zyk/base/Timestamp.h
  /home/zyk/zyk_workspace/zyk/base/Types.h
  /home/zyk/zyk_workspace/zyk/base/copyable.h
-CMakeFiles/main.dir/test_asyncLogging.cc.o
- /home/zyk/zyk_workspace/zyk/base/AsyncLogging.h
- /home/zyk/zyk_workspace/zyk/base/CountDownLatch.h
+CMakeFiles/main.dir/test_logging.cc.o
  /home/zyk/zyk_workspace/zyk/base/LogStream.h
  /home/zyk/zyk_workspace/zyk/base/Logging.h
  /home/zyk/zyk_workspace/zyk/base/StringPiece.h
+ /home/zyk/zyk_workspace/zyk/base/ThreadPool.h
  /home/zyk/zyk_workspace/zyk/base/Timestamp.h
  /home/zyk/zyk_workspace/zyk/base/Types.h
  /home/zyk/zyk_workspace/zyk/base/copyable.h
  /home/zyk/zyk_workspace/zyk/base/noncopyable.h
- /home/zyk/zyk_workspace/zyk/base/test/test_asyncLogging.cc
+ /home/zyk/zyk_workspace/zyk/base/test/test_logging.cc

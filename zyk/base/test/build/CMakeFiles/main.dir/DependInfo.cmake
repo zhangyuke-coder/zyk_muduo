@@ -13,7 +13,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc" "/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ProcessInfo.cc.o"
   "/home/zyk/zyk_workspace/zyk/base/ThreadPool.cc" "/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/ThreadPool.cc.o"
   "/home/zyk/zyk_workspace/zyk/base/Timestamp.cc" "/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Timestamp.cc.o"
-  "/home/zyk/zyk_workspace/zyk/base/test/test_asyncLogging.cc" "/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles/main.dir/test_asyncLogging.cc.o"
+  "/home/zyk/zyk_workspace/zyk/base/test/test_logging.cc" "/home/zyk/zyk_workspace/zyk/base/test/build/CMakeFiles/main.dir/test_logging.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

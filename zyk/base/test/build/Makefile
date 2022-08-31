@@ -366,32 +366,32 @@ home/zyk/zyk_workspace/zyk/base/Timestamp.cc.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/zyk/zyk_workspace/zyk/base/Timestamp.cc.s
 .PHONY : home/zyk/zyk_workspace/zyk/base/Timestamp.cc.s
 
-test_asyncLogging.o: test_asyncLogging.cc.o
+test_logging.o: test_logging.cc.o
 
-.PHONY : test_asyncLogging.o
+.PHONY : test_logging.o
 
 # target to build an object file
-test_asyncLogging.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_asyncLogging.cc.o
-.PHONY : test_asyncLogging.cc.o
+test_logging.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_logging.cc.o
+.PHONY : test_logging.cc.o
 
-test_asyncLogging.i: test_asyncLogging.cc.i
+test_logging.i: test_logging.cc.i
 
-.PHONY : test_asyncLogging.i
+.PHONY : test_logging.i
 
 # target to preprocess a source file
-test_asyncLogging.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_asyncLogging.cc.i
-.PHONY : test_asyncLogging.cc.i
+test_logging.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_logging.cc.i
+.PHONY : test_logging.cc.i
 
-test_asyncLogging.s: test_asyncLogging.cc.s
+test_logging.s: test_logging.cc.s
 
-.PHONY : test_asyncLogging.s
+.PHONY : test_logging.s
 
 # target to generate assembly for a file
-test_asyncLogging.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_asyncLogging.cc.s
-.PHONY : test_asyncLogging.cc.s
+test_logging.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test_logging.cc.s
+.PHONY : test_logging.cc.s
 
 # Help Target
 help:
@@ -429,9 +429,9 @@ help:
 	@echo "... home/zyk/zyk_workspace/zyk/base/Timestamp.o"
 	@echo "... home/zyk/zyk_workspace/zyk/base/Timestamp.i"
 	@echo "... home/zyk/zyk_workspace/zyk/base/Timestamp.s"
-	@echo "... test_asyncLogging.o"
-	@echo "... test_asyncLogging.i"
-	@echo "... test_asyncLogging.s"
+	@echo "... test_logging.o"
+	@echo "... test_logging.i"
+	@echo "... test_logging.s"
 .PHONY : help
 
 
